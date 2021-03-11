@@ -1,0 +1,692 @@
+ Wait where are you exactly?
+ common room with nice seats
+ Ahhh you know the sauce that your mom gave me? It has meat :S hehe
+ https://www.reddit.com/r/linuxmasterrace/comments/ao1ey5/my_school_is_going_in_the_right_direction/?utm_source=reddit-android
+ Text is Lithuanian
+ :((
+ MINT
+ I have Cinnamon not GNOME
+ Lol
+ That changes things
+ A bit
+ Well, barelt
+ Just different themes and stuff
+ Which of these drawings represents the first assignment? Or neither of these? Because I don't really understand what they are asking for
+ the second one
+ actually, no
+ Oh lol
+ They're both wrong
+ You need two stacks, one for enqueuing and the other one for dequeuing
+ Waat
+ so actually the second one is correct
+ my bad
+ Yeah, both of these drawings have that?
+ when you dequeue you move everything from the first to the second stack
+ So the second one?
+ and I'm not going to say anything more
+ Not everything, just one element?
+ jk
+ Are you drunk?
+ no my signal is just really really slow
+ Oh lol
+ everything
+ Oh...kay
+ have you done problem2 of DSA with linked lists?
+ because then it should be fairly simple
+ yoyoyo Fabio, can I please get access to the dutch website?
+ ?
+ Sure
+ Or are you supposed to do it with arrays only?
+ http://nlpprogress.com/english/simplification.html
+ wat is dat?
+ Text simplification repo
+ Might be interesting
+ Haven't read it properly
+ Shall we have a look at it afterwards in calculus?
+ *TLS
+ Шюр
+ Великий товарищ, увидимся там.
+ Как идут расчеты?
+ I made Nick switch to duckduckgo
+ What was the name of that song from Knower?
+ Government knows
+ hello
+ I wanted to ask for access to the dutch website but I remembered you already gave me that
+ bye
+ uhm
+ wait
+ what's the password again?
+ Netherlands!123
+ ?
+ bye bye
+ .
+ Yep
+ yeah
+ it doesn't work
+ nvm
+ it's netherland
+ To join the video meeting, click this link: https://meet.jit.si/hellofabio
+To join by phone, dial +1.512.402.2718 and enter this PIN: 1965615532#
+To view more phone numbers, click this link: https://meet.jit.si/static/dialInInfo.html?room=hellofabio
+ 
+ https://www.youtube.com/watch?v=phWHoJCY2Hc
+ courtesy of Andor
+ https://www.youtube.com/watch?v=Tlsev6ZepqE
+ me want this
+ nice
+ so what's the plan for tomorrow?
+ Go to the station immediately after the lecture
+ So have everything ready in the morning
+ damn. Okay. I'll make food then I guess
+ what else should I take?
+ 
+ Mobib
+ have it
+ what is going on here?
+ What about the tickets to the concert?
+ I really don't remember where I have them lol
+ oh, we have them in the chat, no worries
+ I have them
+ great
+ None
+ https://www.youtube.com/watch?v=1MP3zbggO3A
+ https://www.youtube.com/watch?v=2nBJjL-NV1U
+ I want this
+ Do you still have the MoBib?
+ Yup
+ Forgot to give it back
+ Are you going to be at Tapijn at around 17? So that I can take it and give it to my parents
+ I'm home atm but I can go to TLS if you want
+ No it's not that important 
+ You sure?
+ yep
+ are you skipping calculus?
+ No
+ Why would you think that? I was a bit late and am sitting in the middlr
+ ?
+ Have you checked the video?
+ Can't see it
+ https://youtu.be/2nBJjL-NV1U
+ https://link.marktplaats.nl/m1372376198
+ lol
+ Ella said she had literally the same
+ and it's in Utrecht, too
+ can we get a van and get it?
+ https://www.youtube.com/watch?v=1PDQ22sePmU
+ I'm seriously considering that
+ Let's visit utrecht this weekend
+ with a van
+ Andor there's a guy on facebook called "chaffeur didi" that does transport for cheap
+ lol
+ wait, so are you serious or not really or...?
+ I am extremely serious
+ so what are you proposing then?
+ I just made a short song with lmms
+ could you give me some feedbacks?
+ 
+ goed!
+ are you going there tomorrow then?
+ Fabio, I am not kidding, you should contact some open source game developers
+ I'm having trouble installing ardour
+ yeah, there might be weird stuff with the drivers and the like
+ None
+ are we getting tickets now?
+ they're 27 euros in Antwerp and 40 euros in Utrecht
+ https://projazz.nl/evenement/bill-laurance-uk-solo/
+ btw
+ 9 euros (if I understood correctly)
+ he's from Snarky Puppy also
+ https://www.youtube.com/watch?v=iFnaYfUOnG0
+ uhh
+ ?
+ are you at tapijn?
+ not yet, but I will be there in 20 mins or so
+ https://bobreynoldsmusic.com/live/
+ another member of Snarky Puppy having a tour. This is the guy that I've told you about that I've seen in Manchester. He's coming to Rotterdam on 12th July
+ https://www.youtube.com/watch?v=FKUO09fLRPY
+ I feel like you'd appreciate this
+ What do you think of this?
+ that it's very messy
+ Yes, but is it correct?
+ 
+ can we meet later today and go over mine, Ella's yours and Lucas'?
+ Sure
+ 
+ I honestly like this idea
+ can you guess the time signature?
+ No?
+ wait
+ aaaa
+ something weird as hell but still enjoyable
+ 7/4 or sth?
+ or 13/4
+ or 9.5/4
+ 13/8
+ yeah, I thought the phrases were very long
+ my brain rn
+ try{
+            String text = n+","+totalTime+"\n";
+            File file = new File("assignment3.csv");
+		    file.createNewFile();
+		    Files.write(Paths.get(file.getPath().toString()), text.getBytes(), StandardOpenOption.APPEND);
+	    }
+	    catch(Exception e) {System.out.println("Error with file");}
+        }
+ https://dev.kszk.eu/green-guide-maastricht
+ many spelling mistakes, mister
+ I haven't checked
+ I am just writing without reading rn
+ Can you correct them?
+ how did you get the idea for this? Hehe
+ idk
+ I've added quite a lot of stuff
+ Will you be able to help me any time to complete it?
+ umm
+ I guess?
+ but I don't know much stuff
+ regarding this
+ https://www.youtube.com/watch?v=0BRxDp2u02U&list=PLw43zZsGtzx6ftAR1cnK_vE3dIEHPlRGt
+
+I feel like you will enjoy this playlist
+ 4:01 of DRUNK
+ ohmygod
+ I'm listening to it rn
+ https://www.youtube.com/watch?v=0dBL9OBQ6U4
+ oh dude
+ this is you in the future
+ 20:42 the end product
+ lol
+ What editor is he using?
+ no idea
+ he's on Mac
+ it's called REAPER apparently (1:01)
+ Available for linux!!!
+ oh, I know it
+ ("experimental", but whatever)
+ sticking to whatever you have should be sufficient tho
+ https://www.youtube.com/watch?v=mq0z-sxjNlo
+ 
+ https://dev.kszk.eu/green-maastricht-idea2019
+ 
+ oups
+ Hmhmh
+ Is it natural logarithm?
+ def f(x):
+	return x*np.log(x)
+ ax1.plot(y, x, c='r', label='runtime')
+ax1.plot(f(x), x, c='b', label='x*ln(x)')
+ You need to scale the original function
+ Well, at least i did
+ like y%1000 ?
+ and x%1000?
+ x*np.log(x)/1000
+ why would you divide
+ Lolidk
+ https://dev.kszk.eu/green-maastricht-idea2019
+ https://davehakkens.nl/
+ 
+ Andor sent me this
+ :)
+ and?
+ will you act on it?
+ Ik heb geen Facebook
+ a, jaja
+ jajajaja
+ Dutch book
+ Snooze 2h
+ ?
+ Fabio, what will you be doing after the midterms?
+ because literally everyone will go back home or abroad
+ Let's go to Munich
+ Btw, when could you pay me 30€ for the train card?
+ I don't really have plans for now
+ I was maybe thinking of going to Rotterdam/Groningen/Middelburg/The Hague to visit some friends ( free place to sleep)
+ You could join if you want
+ Whenever, you could send me your bank details or is cash better?
+ Hmm, that does sound really cool, but I don't think I have the money for it tbh
+ Shit. I might try working that week. Andor mentioned some freelancing work
+ https://www.youtube.com/watch?v=fEHpq-BxFm4
+ take the dutch book plsss
+ okay this is cool
+ the video is awesome also
+ yeah I was mainly referring to that
+ https://www.youtube.com/watch?v=-zB449LSFFU
+
+21:40 sick piano lick
+ Hoe gaat get?
+ *het
+ Autocorrect
+ Prima
+ How do I prepare for the Dutch test today? What should i look at?
+ just do the exercises from the website
+ I've done them
+ But I was bad at them lol
+ But i guess i can do them again
+ There is also a website for verbs
+ but I forgot how it was called
+ You might find the address written down in my book somewhere
+ are we ordering the tickets for snarky puppy?
+ for what concert?
+ (where/when)?
+ https://apps.ticketmatic.com/widgets/de_roma/flow/roma?event=540505730455&l=en#!/addtickets
+ I can't plan that far away in time
+ How can we be sure that we won't have anything important that day?
+ We'll try not to :)
+ Idk
+ But if we don't do it soon, there might not be any tickets left soon
+ okay sure let's do it
+ https://www.youtube.com/watch?v=U9CgR2Y6XO4
+ this so fucking cool omg
+ https://dev.kszk.eu/dke-ict#
+ 7:11s are like, the greatest thing
+ But now I want to make music in 7:11 instead of studying
+ https://www.youtube.com/watch?v=kf0HYeQp760
+ Just listen to the whole playlist: https://www.youtube.com/watch?v=DHy1iKBtTq4&index=2&list=RDEMXda29yuQTFB0wxVf0Kc7PQ
+ Are you planning on biking with me on saturday?
+ My friend said that unfortunately there isn't enough space to sleep  for 2
+ (for three including herself)
+ hmm
+ I am kinda intrigued
+ then I would need to message someone who lived in Rotterdam and maybe he would recommned me someone hehe
+ snarky puppy tickets
+ yes?
+ Shall I buy them now
+ for all of us?
+ nope for me
+ actually I can't I need to be home
+ https://goo.gl/maps/ptA7XjdYLfH2
+ ?
+ hmm, not sure what to do honestly
+ hey, will you be able to go to TLS before going to Ella's?
+ not sure
+ why?
+ you mentioned sth about having to stay at home?
+ ?
+ .
+ I'll come to the party
+ Can I sign it there?
+ do you have a marker at home?
+ yes
+ a black one?
+ Yes
+ great!
+ then I'm going home because I'm not doing work anyway
+ and we can sign just before entering the house
+ can you try to go to Jan Linders or AH to check for a Godiva chocolate?
+ 
+ sure
+ just a cool 7/8
+ is anyone coming along?
+ don't know, you could ask someone
+ holy shit this is cool
+ Dude, where do you get your inspiration from? Because this is literally 8bit game inspired music
+ I like 8-bit sounds
+ and 7/8
+ Hey, are you still in Maastricht? Are you up for going to the foodbank today?
+ I'd really like to but I'd rather go to sleep early because my alarm for tomorrow is at 5:30
+ Oh, I see. Damn, I'd really like to join you because it sounds quite fun and don't want you to be cycling alone but this is a bit too spontaneous for me. I wouldn't have a place to sleep lol
+ ???
+ https://www.muziekgieterij.nl/agenda/binkbeats/
+ Who's Binkbeats?
+ Check him out
+ I can't rn
+ I've just visited the Magritte museum in Brussels
+ Uu nice mr
+ Wait does OSMand have public transports?
+ hmm doesn't look like it
+ In their latest update
+ Damn you're right
+ It looks like they have even more specific ways of transport
+ Than google maps
+ Or maybe Google also has this
+ Yup but I don't really get how it works
+ hmm yeah
+ it seems to work fine if I want to go to Maastricht airport with a bus
+ but completely fails for Eindhoven or Aachen
+ have you checked out this guy?
+ https://youtu.be/mZRb0FyAa9s
+ I'll do it later today
+ alright
+ I have just now
+ 
+ (not a huge fan)
+ lol
+ I don't dislike it, I just find it a bit too simplistic
+ simplistic? In what sense?
+ But maybe I'm just not in the right mood right now
+ Few and simple sounds, few and simple cords and rythms
+ *chords
+ hmm
+ What's his best song?
+ how much have you checked out? Because he has a ton of sounds, perhaps the chords aren't very sophisticated but he has a Master's in percussion so his rhythms aren't simplistic by any means. He often plays polyrhythms and the like
+ hmm, probably best example imo would be https://www.youtube.com/watch?v=zfpSn7ZYC0A
+ but I really like https://www.youtube.com/watch?v=ZiUx3n3S1EI 9:40 also
+ What do you think of this?
+ interesting but definitely too jolly for my tastes
+ although maybe I'm also in a specific mood
+ when are you coming back to Maas?
+ Tomorrow evening
+ Great
+ You lost your UM card AND this is happening? You're on a roll, Fab
+ The police is blocking everyone from entering the station
+ I accidentally made a chord progression in 27/16
+ 7+7+7+6
+ What's Luca's channel?
+ https://www.youtube.com/channel/UCbXreefB1ikvNvnDF8nuhvQ
+ https://www.youtube.com/user/Skypercee
+ Do the results of the first A1- dutch exam count at all?
+ yes
+ https://www.umvacancyboard.nl/index.php/CurrentLanguage/3
+ https://www.reddit.com/r/linuxmasterrace/comments/b0a04h/asked_ableton_to_add_support_for_linux_i_love_the/
+ 19h ago
+ ohhh shiiit
+ https://www.bitwig.com/en/download.html
+ In the comments
+ aa
+ 💦💦
+ This is cool, but not open source and costy
+ SNARKY PUPPY TICKETS
+ SNARKY
+ ok
+ so are we getting them?
+ Waar ben jij?
+ http://www.greenkitchenstories.com/
+ oof
+ The music you're listening to is a bit too repetitive for my taste
+ your algorithms are too repetitive
+ it's called recursion
+ I'm listening to hacker music
+ stack overflow
+ Can you send me that diagram ?
+ *can you send that diagram to me
+ which one?
+ which oneee?
+ also, snarky puppy for god's sake
+ for Dijkstra's algorithm
+ the pseudocode
+ ?
+ yes
+ None
+ hum
+ Could you help me debugging my code?
+ lol
+ umm
+ ok?
+ if we get the snarky puppy tickets first
+ outside?
+ where are you?
+ https://www.budgetbytes.com/garlicky-kale-and-ricotta-pizza/
+ looks good
+ are we making sth for dinner today?
+ bless you
+ oi Fab
+ are you in the march?
+ I was
+ oi fabio
+ we are getting the tickets to Snarky Puppy now
+ all tickets are standing so it doesn't matter
+ https://scratch.mit.edu/users/baffo/
+ I will buy the tickets tonight
+ Can you take some of that duct tape please?
+ I'm at the student idea competition
+ For when?
+ Ah damn
+ For the mathsoc meeting
+ Or whenever
+ BE20363147664756
+ My bank account
+ There's a battle of the studies (bands) meeting today at 16:30 tap z
+ So? We haven't registered
+ Isn't it for people participating?
+ That's fine Costanza is organising it and she told me that they're still missing a band
+ Hmmm
+ Hmmmmmm
+ What are you proposing mister?
+ Well if we find a drummer/an alternative to a drummer we should do it
+ We could loop us finger drumming
+ Shit that sounds cool tbh
+ Andor I imagine would be very interested also
+ hey, have you received any info about that go pass?
+ because you've sent an email to the,
+ them
+ Fabiooo
+ can you please send me the graph that you made?
+ Uh sorry
+ Are you in TLS?
+ I'm goinf there soon
+ Can you please help with the fucking assignment 4? Or rather, give insights, because I know how to do it on a high level but no idea in practice. I fucking re did it 5 times now with all different data structures and everything. Jesus
+ Yeah I'll just show you in TLS I'm also going there now
+ Ok
+ When will you be here?
+ In 20-30 mins
+ I'm finishing lunch
+ Me and Chris are going to the library because he wants to eat something
+ Ok
+ For fuck's sake. Tapijn is packed
+ Come to ICL
+ Ok
+ But it should be even fuller
+ int from = (char)('T'-'A');
+        int to = (char)('U'-'A');
+
+        Desert desert = new Desert((int)('U'-'A')+1, from, to);
+        desert.add('A' - 'A', 'B' - 'A', 2);
+        desert.add('A' - 'A', 'O' - 'A', 2);
+        desert.add('B' - 'A', 'N' - 'A', 2);
+        desert.add('B' - 'A', 'C' - 'A', 7);
+        desert.add('C' - 'A', 'D' - 'A', 3);
+        desert.add('C' - 'A', 'F' - 'A', 4);
+        desert.add('D' - 'A', 'G' - 'A', 6);
+        desert.add('D' - 'A', 'H' - 'A', 5);
+        desert.add('D' - 'A', 'I' - 'A', 6);
+        desert.add('E' - 'A', 'H' - 'A', 2);
+        desert.add('E' - 'A', 'J' - 'A', 1);
+        desert.add('E' - 'A', 'P' - 'A', 1);
+        desert.add('E' - 'A', 'K' - 'A', 3);
+        desert.add('F' - 'A', 'G' - 'A', 5);
+        desert.add('F' - 'A', 'M' - 'A', 4);
+        desert.add('F' - 'A', 'L' - 'A', 7);
+        desert.add('G' - 'A', 'H' - 'A', 2);
+        desert.add('G' - 'A', 'K' - 'A', 5);
+        desert.add('H' - 'A', 'I' - 'A', 3);
+        desert.add('I' - 'A', 'J' - 'A', 5);
+        desert.add('I' - 'A', 'S' - 'A', 4);
+        desert.add('J' - 'A', 'S' - 'A', 2);
+        desert.add('J' - 'A', 'P' - 'A', 3);
+        desert.add('K' - 'A', 'L' - 'A', 5);
+        desert.add('K' - 'A', 'R' - 'A', 2);
+        desert.add('L' - 'A', 'Q' - 'A', 6);
+        desert.add('M' - 'A', 'N' - 'A', 4);
+        desert.add('M' - 'A', 'Q' - 'A', 4);
+        desert.add('M' - 'A', 'T' - 'A', 1);
+        desert.add('N' - 'A', 'O' - 'A', 2);
+        desert.add('P' - 'A', 'R' - 'A', 6);
+        desert.add('Q' - 'A', 'R' - 'A', 4);
+        desert.add('S' - 'A', 'U' - 'A', 1);
+ 
+ hello
+ https://upload.disroot.org/r/bRrkpJWb#1PE/7dEd18nm7DR2gdO2GG+xePhdGDkNYj6c5fyGyT0=
+ hem the meditation tar file is 13GB
+ Waar ben jij?
+ 
+ https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8?si=2G9879QgRh-2GLq6lqzHbQ
+ https://open.spotify.com/track/5JVLklFBxXYa6HKYKx3Beo?si=Nqg9Ioq6Q4iiCIRyUfiwJQ
+ https://www.youtube.com/watch?v=ExBUg4rCMkY&fbclid=IwAR3kw7zD1iHZ9E_D-lADqYWnE8t9Mb2ZuX9Dd7-ftbRo8TQqzu2OT47s1Jk
+ Yeah I've already seen that
+ https://www.article13.org/article-13
+ https://mlatlse.kszk.eu/
+ https://www.qwant.com/
+ https://www.qwant.com/music/search?q=jacob%20collier&t=overview
+ They also have a music search engine
+ hum but startpage.com is also really cool. and more private than qwant and ddg. and based in the netherlands. but doesn't have !bangs
+ https://open.spotify.com/user/spotify/playlist/37i9dQZF1DZ06evO3siVQa?si=n7bjZ84CQ_Cm8WT-Fd46_g
+ Could you help me fix my bike tomorrow after calculus (13:00)?
+ Yeah, sure
+ Just get the pliers
+ And any other tools you think would be useful
+ Gloves would be nice
+ Ok
+ Alright I'm done where are you?
+ 
+ damn sounds nice
+ now I want to develop this
+ Fabsteeer I need to study calc
+ but now I will take my bass
+ hey
+ can you send me a link or sth to a meditation for stress?
+ because I think my average sleep time for the last 2 weeks is 5hrs
+ I wouldn't care about it still but I don't want to be a total wreck for the exams
+ 
+ 
+ 
+ Where does the square root 4-x^2 come from?
+ pythagoras?
+ Then what about the 2
+ earlier you have the substitution
+ x = 2sin(theta)
+ then you express sin as follows:
+ sin(theta)  = x/2
+ Oooh
+ That's cool
+ Thanjs
+ and basically this means in the triangle
+ x is in front of the angle and 2 is the hypotenuse
+ have you done anything for DSA yet? My plan for today is do one of the exams
+ Oi
+ Not really
+ Ben jij en fiets?
+ am I and bicycle?
+ yeah, are you?
+ No, I'm or bicycle
+ Show that accessing elements in a
+linked hashtable has an amortized
+complexity of O(1)
+ What the heck is amortization?
+ It's in the slides
+ https://open.spotify.com/track/6aKs5PP7EuCVZj1CV0DEoa?si=r-Vw948kQoKwvaYFVjMSrw
+ None
+ None
+ This
+ Oi, when are you going to Brussels?
+ And can I join or is it too late? The train has gone off? Left me at the station?
+ Oi
+ You can still join! My mom bought food for more than just me
+ I was thinking of leaving tomorrow in the early afternoon
+ Hmm wouldn't you like to go to the foodbank though? Ella is still here and Andor would join
+ Hum
+ Sooo?
+ Idk
+ Would it be fine for you if we leave today?
+ Tbh I really want to go to the foodbank as Andor would be joining. How would it be different if we leave today rather than tomorrow?
+ Tomorrow rather than today*
+ Ehh, I was thinking that I will go to the foodbank today and meet with Andor so I guess I might not go to Brussels then :/ there's also a party at the LBB tomorrow
+ I think I'll leave today
+ At around 15
+ Will you come with me today? Or would you join tomorrow?
+ Hmm. Definitely not today. Tomorrow I'm most likely going to the party at the LBB here since quite a few people are interested. Chris is coming with you today?
+ Sooo I'm probably not going to Brussels at all this weekend then :/  sorry for such a weird change of plans, that's what happens when planning is done spontaneously lol
+ Call me when you have the chance, I have another idea
+ https://goo.gl/maps/47uzeyqEsAv
+ So do you plan on coming tomorrow?
+ Yeah, in the morning with nick
+ at what time?
+ Do you already know what you'd like to visit?
+ We'll leave at 8 hopefully
+ At we'll be there at 10
+ And not sure what we'll visit
+ We'll sort it out on our way there
+ I need to cut my hair between 13-16:15
+ Shall we meet at the museum of instruments at 10:30?
+ Wher u at?
+ unpaywall
+ I have the following doubts:
+- How to properly draw backtrack and forward-check showing stopping points
+- How to convert multiple variables to CNF (like ∀x p(x) ∧ ∀y p(y))
+- How to insert variables where you have functions with resolution (P(Dog)  --  P(x) ∧ ¬P(f(x)))
+- How to draw variable that depends on two but is unable to distinguish between the two (see Task 4 exam 1)
+ 
+ I have no idea for task 1 of the second practice exam
+ 
+ tf?
+ wtf?
+ Which one is it?
+ I'll be coming home soon
+ task 2 b
+ I'm at Ella's
+ Idk
+ (Julian made it last year, not all of it is correct)
+ what did you get in task 4
+ the last question in c?
+ I thought P(B | C) = P(B) = 9/20
+ Second exam?
+ first
+ P(B|C)=P(B^C)/P(C)
+Denominator by LOTUS
+And numerator is P(B|S)P(S)+P(B|~S)P(~S)+...
+ what is that first line?
+ the hell is P(B^C)?
+ Wait wait
+ And
+ ohh
+ and are they independent
+ ?
+ Yeah so doesn't that simplify to P(B)P(C)?
+ yea
+ Wait I think I'm wrong
+ can you send me your solutions? I get 0.45 this way
+ 
+ Nick's answer
+ ding ding ding spanish question marks spotted lol
+ ¿Qué?
+ what the hell is Julian's proof for task 1b in second exam?
+ do you have a shorter answer?
+ Yeah idk
+ Nick and Walter have different answers
+ I asked Chris
+ oh shit
+ in cnf
+ if you have an AND, you can just list it as a separate fact?
+ so not A ^ B but
+ 1. A
+2. B
+ Yeah
+ oof
+ so what's the conclusion of task 1?
+ Exam 2?
+ Julian's answer explains that nicely
+ he skips 1 a) and b) is weird
+ 1a is the same as assignment 1 first question
+ How do you render md in firefox?
+ I installed 2 addons but don't work
+ Hmm
+ I mean
+ Just check online
+ "Linux render markdown in browser"
+ Linux render markdown in browser
+ Oups
+ https://github.com/KeithLRobertson/markdown-viewer/blob/master/README.md#installing-on-linux
+ If anyone else you know has the same issue
+ Nvm doesn't work for me
+ Hmm
+ 
+ My friend in Munich (the saxophonist) just sent me this. Turns out he can also sing and play keys
+ Check your habitica
+ Lol thanks
+ Did you get it also?
+ yep
+ Nice
+ You can buy gems with gold now
+ I bought all that I couls lol
+ I still don't know how that works
+ It will be a nice motivation for marble lol
+ Ok lol
+ I think you should also spend all of your gold to buy gems and then we can buy cool quests for the party
+ How
+ -> Shops -> Market -> scroll to the bottom
+ I have 11
+ Cool. We can get more during this month. Although the cap is 25 I think
+ http://www.4allports.com/port-infrastructure-rotterdam-netherlands-pid31.html
+ I need to scrape this boi
+ I need name, position and basically all the info that they give here also (type,quay length, dpeth, etc)
+ depth*
+ I guess it's not possible to get what kind of ship types are served there but I can assign each of them then maybe
