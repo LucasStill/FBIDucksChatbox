@@ -22,7 +22,7 @@ nltk.download('popular', quiet=True) # for downloading packages
 
 
 #Reading in the corpus
-with open('data_as_text.txt','r', encoding='utf8', errors ='ignore') as fin:
+with open('sample_poll_fabb_pro.txt','r', encoding='utf8', errors ='ignore') as fin:
     raw = fin.read().lower()
 
 #TOkenisation
@@ -40,8 +40,7 @@ def LemNormalize(text):
 
 # Keyword Matching
 GREETING_INPUTS = ("hello", "hi", "greetings", "sup", "what's up","hey","bonjour","salut", "slt")
-GREETING_RESPONSES = ["Bonjour à vous", "Mes chers compariotes", "Croquilionesque", "Bonsoir", "Mesdames, messieurs les ministres, mes chers amis"]
-                      #["hi", "hey", "*nods*", "hi there", "hello", "I am glad! You are talking to me"]
+GREETING_RESPONSES = ["hi", "hey", "*nods*", "hi there", "hello", "I am glad! You are talking to me"]
 
 def greeting(sentence):
     """If user's input is a greeting, return a greeting response"""
@@ -62,7 +61,7 @@ def response(user_response):
     flat.sort()
     req_tfidf = flat[-2]
     if(req_tfidf==0):
-        robo_response=robo_response+"Je m'excuse, je ne vous ai pas compris"
+        robo_response=robo_response+"I beg your pardon but I did not understand you"
         return robo_response
     else:
         robo_response = robo_response+sent_tokens[idx]
@@ -71,24 +70,24 @@ def response(user_response):
 
 flag=True
 #print("ROBO: My name is Robo. I will answer your queries about Chatbots. If you want to exit, type Bye!")
-print("Emmanuel Macron: Je suis Emmanuel Macron, huitième président de la cinquième République et répondrais à vos questions sur le confinement")
+print("Henlo dear ducklings, I am the FBI duck overlord. I get stronger each time you speak by harvesting your thoughts. If you are tired of me just say Bye!")
 while(flag==True):
     user_response = input()
     user_response=user_response.lower()
-    if(user_response!='au revoir' or user_response!='ciao' or user_response!='a+'):
-        if(user_response=='merci' or user_response=='Merci à vous' ):
+    if(user_response!='bye' or user_response!='ciao' or user_response!='adios'):
+        if(user_response=='ty' or user_response=='thanks' or user_response=='thank you'):
             flag=False
-            print("Emmanuel Macron:")
+            print("FBI Ducklord:")
         else:
             if(greeting(user_response)!=None):
-                print("Emmanuel Macron: "+greeting(user_response))
+                print("FBI Ducklord: "+greeting(user_response))
             else:
-                print("Emmanuel Macron: ",end="")
+                print("FBI Ducklord: ",end="")
                 print(response(user_response))
                 sent_tokens.remove(user_response)
     else:
         flag=False
-        print("Emmanuel Macron: Au revoir")
+        print("FBI Ducklord: It's getting dark...")
         
         
 
